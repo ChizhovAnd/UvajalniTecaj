@@ -7,3 +7,11 @@ if (number < 0) {
 } else {
     console.log("Равно 0");
 }
+
+// 2.2
+const starost = 18;
+if (starost >= 18) {
+    console.log("Совершеннолетний");
+} else {
+    console.log("Не совершеннолетний")
+}
