@@ -39,3 +39,9 @@ let product = "Knjiga";
 let kol = 3;
 let price = 15;
 console.log(`${product} stane ${price} EUR, kolicina: ${kol}`);
+
+// 1.8
+console.log("pozor".toUpperCase())
+
+// 1.9
+console.log(`Случайное число от 1 до 10: ${Math.floor((Math.random()*10))}`);
