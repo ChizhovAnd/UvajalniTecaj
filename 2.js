@@ -23,3 +23,14 @@ if (num%2===0) {
 } else {
     console.log("Нeчётное");
 }
+
+// 2.4 
+const nu1 = 211;
+const nu2 = 21;
+if (nu1===nu2) {
+    console.log("Они равны");
+} else if (nu1> nu2) {
+    console.log(nu1);
+} else {
+    console.log(nu2);
+}
