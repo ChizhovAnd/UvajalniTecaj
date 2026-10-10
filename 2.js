@@ -52,3 +52,12 @@ if (temp < 10) {
 } else {
     console.log("good");
 }
+
+// 2.7
+
+const mes = Number(prompt("Сколько вам лет?"));
+if (mes >= 18) {
+    console.log("Добро пожаловать!");
+} else {
+    console.log("Доступ запрещён");
+}
