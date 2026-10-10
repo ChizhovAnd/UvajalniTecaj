@@ -42,3 +42,13 @@ if (mark < 6) {
 } else {
     console.log("passed");
 }
+
+// 2.6
+const temp = 22;
+if (temp < 10) {
+    console.log("Cold");
+} else if (temp > 20) {
+    console.log("Hot");
+} else {
+    console.log("good");
+}
