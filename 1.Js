@@ -13,3 +13,8 @@ const wight = 22;
 const height = 12;
 let P = (wight+height)*2
 console.log(P)
+
+// 1.4
+const C = 22;
+let F = (C * 9 / 5) + 32;
+console.log(F);
