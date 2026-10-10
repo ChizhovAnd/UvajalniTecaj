@@ -33,3 +33,9 @@ for (let i = 0; i< grades.length ; i++ ) {
     suma+= grades[i];
 };
 console.log(suma)
+
+// 1.7
+let product = "Knjiga";
+let kol = 3;
+let price = 15;
+console.log(`${product} stane ${price} EUR, kolicina: ${kol}`);
