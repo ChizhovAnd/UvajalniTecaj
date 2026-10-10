@@ -15,3 +15,11 @@ if (starost >= 18) {
 } else {
     console.log("Не совершеннолетний")
 }
+
+// 2.3
+const num = 3;
+if (num%2===0) {
+    console.log("Чётное");
+} else {
+    console.log("Нeчётное");
+}
