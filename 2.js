@@ -34,3 +34,11 @@ if (nu1===nu2) {
 } else {
     console.log(nu2);
 }
+
+// 2.5
+const mark = 5;
+if (mark < 6) {
+    console.log("not passed");
+} else {
+    console.log("passed");
+}
