@@ -24,3 +24,12 @@ const minut = 61;
 let hours = Math.floor(minut/60);
 let min = minut%60;
 console.log(`${minut} minuts = ${hours}h and ${min}m`)
+
+// 1.6
+const grades = [5, 1, 2];
+
+let suma = 0;
+for (let i = 0; i< grades.length ; i++ ) {
+    suma+= grades[i];
+};
+console.log(suma)
