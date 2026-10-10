@@ -18,3 +18,9 @@ console.log(P)
 const C = 22;
 let F = (C * 9 / 5) + 32;
 console.log(F);
+
+// 1.5
+const minut = 61;
+let hours = Math.floor(minut/60);
+let min = minut%60;
+console.log(`${minut} minuts = ${hours}h and ${min}m`)
